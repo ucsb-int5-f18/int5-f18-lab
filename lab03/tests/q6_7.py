@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> berkeley_markets.sort(0)
+          >>> sb_markets.sort(0)
           MarketName                        | city     | State      | y       | x
           Downtown Berkeley Farmers' Market | Berkeley | California | 37.8697 | -122.273
           North Berkeley Farmers' Market    | Berkeley | California | 37.8802 | -122.269
